@@ -17,7 +17,7 @@ Os objetivos são:
 
 3) Crie um arquivo dockerfile e use como base uma image do Ubuntu;
 * * 1) Copie o diretório "source" para uma pasta chamada "/app";
-* * 2) Instale o Python 3.9+;
+* * 2) Instale o Python 3.11+;
 * * 3) Instale os módulos do Python a partir do arquivo "requirements.txt";
 * * 4) Execução o comando de execução do script Python "start.py" assim que o seu conteiner for criado;
 * * 5) Build a do dockerfile em sua máquina e teste a execução. Se tudo ocorrer bem, uma mensagem de sucesso será exibida no terminal após a execução do script Python;
